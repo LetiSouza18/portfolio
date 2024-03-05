@@ -1,0 +1,8 @@
+.story section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.story h1{
+    padding-bottom: 30px;
+}

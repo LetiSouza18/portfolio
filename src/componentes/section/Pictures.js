@@ -1,13 +1,11 @@
-
+import styles from './Pictures.module.css'
 
 
 function Pictures({img, text}){
     return(
-        <div className="">
-            <img alt="" src={img}></img>
-            <section>
-                <p>{text}</p>
-            </section>
+        <div className={styles.pictures}>
+            <img alt="" src={img} size={30}></img>
+            <p>{text}</p>       
         </div>
     )
 }

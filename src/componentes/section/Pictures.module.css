@@ -1,0 +1,16 @@
+.pictures{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pictures p{
+    font-size: 13px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.pictures img{
+    height: 200px !important;
+}
