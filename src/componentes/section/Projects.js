@@ -42,7 +42,6 @@ function Projects(){
             repo="https://github.com/LetiSouza18/ProjetoPortfolioProfissional"
             site="https://projeto-portfolio-profissional.vercel.app"
             />
-            <ButtonB text='Acesse meu repositório' link='https://github.com/LetiSouza18'/>
         </div>
     )
 }

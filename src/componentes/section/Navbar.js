@@ -7,6 +7,7 @@ function Navbar(){
         <div className={styles.navbar}>
             <ul>
                 <li><Nav.Link href='#Presentation'>Apresentação</Nav.Link></li>
+                <li><Nav.Link href='#Story'>Minha história</Nav.Link></li>
                 <li><Nav.Link href='#Skills'>Habilidades</Nav.Link></li>
                 <li><Nav.Link href='#Projects'>Projetos</Nav.Link></li>
             </ul>

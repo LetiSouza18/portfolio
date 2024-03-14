@@ -9,7 +9,7 @@ import styles from './Story.module.css'
 
 function Story(){
     return(
-        <div className={styles.story}>
+        <div className={styles.story} id='Story'>
             <h1> Minha história </h1>
             <section>
             <Pictures
@@ -18,7 +18,7 @@ function Story(){
             />
             <Pictures
                 img={australia}
-                text="Participei de campeonato internacional na Austrália, onde fomos a equipe brasileira com maior pontuação no Desafio do Robô." 
+                text="Participei de um campeonato internacional na Austrália, onde fomos a equipe brasileira com maior pontuação no Desafio do Robô." 
             />
             <Pictures
                 img={replay}
@@ -26,15 +26,15 @@ function Story(){
             />
             <Pictures
                 img={cargo}
-                text="Participei de campeonatos nacionais no Rio de Janeiro e São Paulo"
+                text="Participei de campeonatos nacionais no Rio de Janeiro e em São Paulo."
             />
             <Pictures
                 img={ambu}
-                text="Dentro da Startup AXOLOTLS, programei em C++ o equipamento embarcado desenvolvido pela equipe e gerenciei projetos com o SCRUM com objetivo de cumprir todas as entregas com organização e disciplina."
+                text="Dentro da Startup AXOLOTLS, programei em C++ e gerenciei projetos com o SCRUM."
             />
             <Pictures
                 img={snct}
-                text="Já fiz voluntariados como expositora no evento “NASA Science Days” e na Semana Nacional de Ciência e Tecnologia em três edições, onde exerci habilidades de apresentação, criação de soluções inovadoras e venda de produtos."
+                text="Já fiz voluntariados como expositora no evento “NASA Science Days” e na Semana Nacional de Ciência e Tecnologia em três edições."
             />
             </section>
         </div>

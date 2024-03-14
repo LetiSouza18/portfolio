@@ -16,6 +16,8 @@ function Skills(){
                 <img alt="" src={javascript}/>
                 <img alt="" src={react}/>
                 <img alt="" src={bootstrap}/>
+                <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+                <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
             </div>
         </div>
     )
