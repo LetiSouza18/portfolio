@@ -18,7 +18,7 @@ function Story(){
             />
             <Pictures
                 img={australia}
-                text="Participei de campeonato internacionai na Austrália, onde fomos a equipe brasileira com maior pontuação no Desafio do Robô." 
+                text="Participei de campeonato internacional na Austrália, onde fomos a equipe brasileira com maior pontuação no Desafio do Robô." 
             />
             <Pictures
                 img={replay}
@@ -26,7 +26,7 @@ function Story(){
             />
             <Pictures
                 img={cargo}
-                text="Participei de campeonatos internacionais no Rio de Janeiro e São Paulo"
+                text="Participei de campeonatos nacionais no Rio de Janeiro e São Paulo"
             />
             <Pictures
                 img={ambu}
