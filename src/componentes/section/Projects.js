@@ -1,4 +1,3 @@
-import ButtonB from '../elements/ButtonB'
 import styles from './Projects.module.css'
 import Card from './Card'
 import lpdnc from '../../Image/projects/lpdnc.svg'
